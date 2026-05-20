@@ -1,0 +1,7 @@
+*.pdf
+extracted_text.txt
+part_a*
+Neuer Ordner/
+__pycache__/
+*.pyc
+.DS_Store
